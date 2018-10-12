@@ -13,11 +13,9 @@ namespace Zoey.Dapper.Sample.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ISqlContext _sqlContext;
         private readonly ISqlCommand _sqlCommand;
-        public HomeController(ISqlContext sqlContext, ISqlCommand sqlCommand)
+        public HomeController(ISqlCommand sqlCommand)
         {
-            this._sqlContext = sqlContext;
             _sqlCommand = sqlCommand;
         }
 
@@ -29,21 +27,6 @@ namespace Zoey.Dapper.Sample.Controllers
             });
 
             return View(student);
-        }
-
-        public IActionResult About()
-        {
-            var sql = _sqlContext.GetSqlElement("Student.UpdateStudentByID");
-            using (var db = new SqlConnection("Data Source=.;Initial Catalog=Test;Integrated Security=True"))
-            {
-                db.Execute(sql.CommandText, new
-                {
-                    Age = new Random().Next(100),
-                    Name = "Hello Zoey!",
-                    ID = 1
-                });
-            }
-            return View();
         }
     }
 }
