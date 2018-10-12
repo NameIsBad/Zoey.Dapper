@@ -2259,11 +2259,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\Zoey.Dapper\\src\\Zoey.Dapper.MSSQLserver\\Zoey.Dapper.MSSQLserver.csproj",
+      "projectUniqueName": "D:\\source\\Repos\\Zoey.Dapper\\src\\Zoey.Dapper.MSSQLserver\\Zoey.Dapper.MSSQLserver.csproj",
       "projectName": "Zoey.Dapper.MSSQLserver",
-      "projectPath": "D:\\source\\Zoey.Dapper\\src\\Zoey.Dapper.MSSQLserver\\Zoey.Dapper.MSSQLserver.csproj",
+      "projectPath": "D:\\source\\Repos\\Zoey.Dapper\\src\\Zoey.Dapper.MSSQLserver\\Zoey.Dapper.MSSQLserver.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\Zoey.Dapper\\src\\Zoey.Dapper.MSSQLserver\\obj\\",
+      "outputPath": "D:\\source\\Repos\\Zoey.Dapper\\src\\Zoey.Dapper.MSSQLserver\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2283,8 +2283,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\source\\Zoey.Dapper\\src\\Zoey.Dapper\\Zoey.Dapper.csproj": {
-              "projectPath": "D:\\source\\Zoey.Dapper\\src\\Zoey.Dapper\\Zoey.Dapper.csproj"
+            "D:\\source\\Repos\\Zoey.Dapper\\src\\Zoey.Dapper\\Zoey.Dapper.csproj": {
+              "projectPath": "D:\\source\\Repos\\Zoey.Dapper\\src\\Zoey.Dapper\\Zoey.Dapper.csproj"
             }
           }
         }

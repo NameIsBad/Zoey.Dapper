@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoey.Dapper", "src\Zoey.Dap
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoey.Dapper.MSSQLserver", "src\Zoey.Dapper.MSSQLserver\Zoey.Dapper.MSSQLserver.csproj", "{D3B6872E-EE2F-48A2-9804-1C73A8D53DA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoey.Dapper.Test", "src\Zoey.Dapper.Test\Zoey.Dapper.Test.csproj", "{CE1DB55B-3243-440F-889B-A7118A6A2B45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoey.Dapper.Test", "src\Zoey.Dapper.Test\Zoey.Dapper.Test.csproj", "{CE1DB55B-3243-440F-889B-A7118A6A2B45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoey.Dapper.MySql", "src\Zoey.Dapper.MySql\Zoey.Dapper.MySql.csproj", "{5CA75C81-12D3-432F-95FC-4FC419A41F87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{CE1DB55B-3243-440F-889B-A7118A6A2B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE1DB55B-3243-440F-889B-A7118A6A2B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE1DB55B-3243-440F-889B-A7118A6A2B45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA75C81-12D3-432F-95FC-4FC419A41F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA75C81-12D3-432F-95FC-4FC419A41F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA75C81-12D3-432F-95FC-4FC419A41F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA75C81-12D3-432F-95FC-4FC419A41F87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

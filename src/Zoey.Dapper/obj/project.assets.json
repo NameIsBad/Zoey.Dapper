@@ -2241,11 +2241,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\Zoey.Dapper\\src\\Zoey.Dapper\\Zoey.Dapper.csproj",
+      "projectUniqueName": "D:\\source\\Repos\\Zoey.Dapper\\src\\Zoey.Dapper\\Zoey.Dapper.csproj",
       "projectName": "Zoey.Dapper",
-      "projectPath": "D:\\source\\Zoey.Dapper\\src\\Zoey.Dapper\\Zoey.Dapper.csproj",
+      "projectPath": "D:\\source\\Repos\\Zoey.Dapper\\src\\Zoey.Dapper\\Zoey.Dapper.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\Zoey.Dapper\\src\\Zoey.Dapper\\obj\\",
+      "outputPath": "D:\\source\\Repos\\Zoey.Dapper\\src\\Zoey.Dapper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

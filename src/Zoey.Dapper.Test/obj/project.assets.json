@@ -5746,11 +5746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\Zoey.Dapper\\src\\Zoey.Dapper.Test\\Zoey.Dapper.Test.csproj",
+      "projectUniqueName": "D:\\source\\Repos\\Zoey.Dapper\\src\\Zoey.Dapper.Test\\Zoey.Dapper.Test.csproj",
       "projectName": "Zoey.Dapper.Test",
-      "projectPath": "D:\\source\\Zoey.Dapper\\src\\Zoey.Dapper.Test\\Zoey.Dapper.Test.csproj",
+      "projectPath": "D:\\source\\Repos\\Zoey.Dapper\\src\\Zoey.Dapper.Test\\Zoey.Dapper.Test.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\Zoey.Dapper\\src\\Zoey.Dapper.Test\\obj\\",
+      "outputPath": "D:\\source\\Repos\\Zoey.Dapper\\src\\Zoey.Dapper.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
