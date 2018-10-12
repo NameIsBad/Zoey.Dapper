@@ -1,0 +1,12 @@
+D:\source\Zoey.Dapper\src\Zoey.Dapper.MSSQLserver\obj\Debug\netstandard2.0\Zoey.Dapper.MSSQLserver.csproj.CoreCompileInputs.cache
+D:\source\Zoey.Dapper\src\Zoey.Dapper.MSSQLserver\obj\Debug\netstandard2.0\Zoey.Dapper.MSSQLserver.AssemblyInfoInputs.cache
+D:\source\Zoey.Dapper\src\Zoey.Dapper.MSSQLserver\obj\Debug\netstandard2.0\Zoey.Dapper.MSSQLserver.AssemblyInfo.cs
+D:\source\Zoey.Dapper\src\Zoey.Dapper.MSSQLserver\bin\Debug\netstandard2.0\Zoey.Dapper.MSSQLserver.deps.json
+D:\source\Zoey.Dapper\src\Zoey.Dapper.MSSQLserver\bin\Debug\netstandard2.0\Zoey.Dapper.MSSQLserver.dll
+D:\source\Zoey.Dapper\src\Zoey.Dapper.MSSQLserver\bin\Debug\netstandard2.0\Zoey.Dapper.MSSQLserver.pdb
+D:\source\Zoey.Dapper\src\Zoey.Dapper.MSSQLserver\bin\Debug\netstandard2.0\Zoey.Dapper.dll
+D:\source\Zoey.Dapper\src\Zoey.Dapper.MSSQLserver\bin\Debug\netstandard2.0\Zoey.Dapper.pdb
+D:\source\Zoey.Dapper\src\Zoey.Dapper.MSSQLserver\obj\Debug\netstandard2.0\Zoey.Dapper.MSSQLserver.csprojAssemblyReference.cache
+D:\source\Zoey.Dapper\src\Zoey.Dapper.MSSQLserver\obj\Debug\netstandard2.0\Zoey.Dapper.MSSQLserver.csproj.CopyComplete
+D:\source\Zoey.Dapper\src\Zoey.Dapper.MSSQLserver\obj\Debug\netstandard2.0\Zoey.Dapper.MSSQLserver.dll
+D:\source\Zoey.Dapper\src\Zoey.Dapper.MSSQLserver\obj\Debug\netstandard2.0\Zoey.Dapper.MSSQLserver.pdb
