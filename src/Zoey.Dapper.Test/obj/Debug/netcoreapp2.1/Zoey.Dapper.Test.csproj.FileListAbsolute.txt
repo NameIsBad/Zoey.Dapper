@@ -12,3 +12,17 @@ D:\source\Zoey.Dapper\src\Zoey.Dapper.Test\obj\Debug\netcoreapp2.1\Zoey.Dapper.T
 D:\source\Zoey.Dapper\src\Zoey.Dapper.Test\obj\Debug\netcoreapp2.1\Zoey.Dapper.Test.AssemblyInfo.cs
 D:\source\Zoey.Dapper\src\Zoey.Dapper.Test\obj\Debug\netcoreapp2.1\Zoey.Dapper.Test.dll
 D:\source\Zoey.Dapper\src\Zoey.Dapper.Test\obj\Debug\netcoreapp2.1\Zoey.Dapper.Test.pdb
+F:\project\GitHub\Zoey.Dapper-master\src\Zoey.Dapper.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\project\GitHub\Zoey.Dapper-master\src\Zoey.Dapper.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+F:\project\GitHub\Zoey.Dapper-master\src\Zoey.Dapper.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+F:\project\GitHub\Zoey.Dapper-master\src\Zoey.Dapper.Test\bin\Debug\netcoreapp2.1\Zoey.Dapper.Test.deps.json
+F:\project\GitHub\Zoey.Dapper-master\src\Zoey.Dapper.Test\bin\Debug\netcoreapp2.1\Zoey.Dapper.Test.runtimeconfig.json
+F:\project\GitHub\Zoey.Dapper-master\src\Zoey.Dapper.Test\bin\Debug\netcoreapp2.1\Zoey.Dapper.Test.runtimeconfig.dev.json
+F:\project\GitHub\Zoey.Dapper-master\src\Zoey.Dapper.Test\bin\Debug\netcoreapp2.1\Zoey.Dapper.Test.dll
+F:\project\GitHub\Zoey.Dapper-master\src\Zoey.Dapper.Test\bin\Debug\netcoreapp2.1\Zoey.Dapper.Test.pdb
+F:\project\GitHub\Zoey.Dapper-master\src\Zoey.Dapper.Test\obj\Debug\netcoreapp2.1\Zoey.Dapper.Test.csprojAssemblyReference.cache
+F:\project\GitHub\Zoey.Dapper-master\src\Zoey.Dapper.Test\obj\Debug\netcoreapp2.1\Zoey.Dapper.Test.csproj.CoreCompileInputs.cache
+F:\project\GitHub\Zoey.Dapper-master\src\Zoey.Dapper.Test\obj\Debug\netcoreapp2.1\Zoey.Dapper.Test.AssemblyInfoInputs.cache
+F:\project\GitHub\Zoey.Dapper-master\src\Zoey.Dapper.Test\obj\Debug\netcoreapp2.1\Zoey.Dapper.Test.AssemblyInfo.cs
+F:\project\GitHub\Zoey.Dapper-master\src\Zoey.Dapper.Test\obj\Debug\netcoreapp2.1\Zoey.Dapper.Test.dll
+F:\project\GitHub\Zoey.Dapper-master\src\Zoey.Dapper.Test\obj\Debug\netcoreapp2.1\Zoey.Dapper.Test.pdb
