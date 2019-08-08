@@ -13,8 +13,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\Zoey.Dapper.MSSQLserver\Zoey.Dapper.MSSQLserver.csproj" />
-    <ProjectReference Include="..\src\Zoey.Dapper\Zoey.Dapper.csproj" />
+    <ProjectReference Include="..\..\src\Zoey.Dapper.MSSQLserver\Zoey.Dapper.MSSQLserver.csproj" />
+    <ProjectReference Include="..\..\src\Zoey.Dapper\Zoey.Dapper.csproj" />
   </ItemGroup>
 
 </Project>
