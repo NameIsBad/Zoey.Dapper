@@ -1,6 +1,5 @@
-﻿using System;
-using Microsoft.Extensions.DependencyInjection;
-using Zoey.Dapper.DependencyInjection;
+﻿using Microsoft.Extensions.DependencyInjection;
+using System;
 
 namespace Zoey.Dapper
 {

@@ -18,4 +18,10 @@
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Zoey.Dapper.Abstractions\Zoey.Dapper.Abstractions.csproj" />
+    <ProjectReference Include="..\Zoey.Dapper.Configuration.MemoryCache\Zoey.Dapper.Configuration.MemoryCache.csproj" />
+    <ProjectReference Include="..\Zoey.Dapper.Configuration\Zoey.Dapper.Configuration.csproj" />
+  </ItemGroup>
+
 </Project>

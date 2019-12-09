@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="3.1.0" />
     <PackageReference Include="Dapper" Version="1.60.6" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="MongoDB.Driver" Version="2.8.1" />
@@ -13,6 +14,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\src\Zoey.Dapper.Abstractions\Zoey.Dapper.Abstractions.csproj" />
+    <ProjectReference Include="..\..\src\Zoey.Dapper.Configuration.MemoryCache\Zoey.Dapper.Configuration.MemoryCache.csproj" />
+    <ProjectReference Include="..\..\src\Zoey.Dapper.Configuration\Zoey.Dapper.Configuration.csproj" />
     <ProjectReference Include="..\..\src\Zoey.Dapper.MSSQLserver\Zoey.Dapper.MSSQLserver.csproj" />
     <ProjectReference Include="..\..\src\Zoey.Dapper\Zoey.Dapper.csproj" />
   </ItemGroup>

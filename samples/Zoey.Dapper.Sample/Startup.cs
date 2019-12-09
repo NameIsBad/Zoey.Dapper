@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.FileProviders;
+using Zoey.Dapper.Configuration;
 using Zoey.Dapper.DependencyInjection;
 
 namespace Zoey.Dapper.Sample

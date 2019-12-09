@@ -3,9 +3,11 @@ using Microsoft.Extensions.DependencyInjection.Extensions;
 using System;
 using System.Collections.Generic;
 using System.IO;
+using Zoey.Dapper;
 using Zoey.Dapper.Abstractions;
+using Zoey.Dapper.Configuration.MemoryCache;
 
-namespace Zoey.Dapper.DependencyInjection
+namespace Microsoft.Extensions.DependencyInjection
 {
     public static class ZoeyDapperServiceCollectionExtensions
     {
@@ -31,7 +33,7 @@ namespace Zoey.Dapper.DependencyInjection
         /// <param name="services"></param>
         /// <param name="dic"></param>
         /// <returns></returns>
-        public static IZoeyDapperBuilder AddZoeyDapperCore(this IServiceCollection services,string dic)
+        public static IZoeyDapperBuilder AddZoeyDapperCore(this IServiceCollection services, string dic)
         {
             if (string.IsNullOrEmpty(dic))
             {
@@ -76,6 +78,8 @@ namespace Zoey.Dapper.DependencyInjection
             services.TryAddSingleton<ISqlContext, SqlContext>();
             services.TryAddSingleton<IDBDomain, DBDomain>();
             services.TryAddScoped<ISqlCommand, SqlCommand>();
+            services.TryAddSingleton<ISqlPopulate, SqlPopulate>();
+            services.TryAddSingleton<ISqlCache, SqlCache>();
             var builder = new ZoeyDapperBuilder(services);
             return builder;
         }

@@ -3,9 +3,8 @@ using System;
 using System.Data;
 using System.Data.SqlClient;
 using Zoey.Dapper.Abstractions;
-using Zoey.Dapper.DependencyInjection;
 
-namespace Zoey.Dapper.DependencyInjection
+namespace Microsoft.Extensions.DependencyInjection
 {
     public static class ZoeyDapperBuilderExtensions
     {

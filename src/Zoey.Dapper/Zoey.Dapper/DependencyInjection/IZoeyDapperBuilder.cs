@@ -1,9 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Zoey.Dapper.DependencyInjection
+namespace Microsoft.Extensions.DependencyInjection
 {
     public interface IZoeyDapperBuilder
     {

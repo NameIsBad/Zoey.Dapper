@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Zoey.Dapper.Abstractions;
-using Zoey.Dapper.Abstractions.Configuration;
+﻿using Zoey.Dapper.Abstractions;
+using Zoey.Dapper.Configuration;
 
 namespace Zoey.Dapper
 {

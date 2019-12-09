@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2026
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoey.Dapper", "Zoey.Dapper\Zoey.Dapper.csproj", "{7DBB9990-9F3E-45B5-9597-E164CEEFB508}"
 EndProject
@@ -9,7 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoey.Dapper.MSSQLserver", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoey.Dapper.Test", "Zoey.Dapper.Test\Zoey.Dapper.Test.csproj", "{CE1DB55B-3243-440F-889B-A7118A6A2B45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoey.Dapper.MySql", "Zoey.Dapper.MySql\Zoey.Dapper.MySql.csproj", "{5CA75C81-12D3-432F-95FC-4FC419A41F87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoey.Dapper.MySql", "Zoey.Dapper.MySql\Zoey.Dapper.MySql.csproj", "{5CA75C81-12D3-432F-95FC-4FC419A41F87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoey.Dapper.Configuration", "Zoey.Dapper.Configuration\Zoey.Dapper.Configuration.csproj", "{217E7168-1A56-4602-9F99-5A945AA0507A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoey.Dapper.Configuration.MemoryCache", "Zoey.Dapper.Configuration.MemoryCache\Zoey.Dapper.Configuration.MemoryCache.csproj", "{86100226-6A3D-4977-985F-A0CEA9F5F2B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoey.Dapper.Abstractions", "Zoey.Dapper.Abstractions\Zoey.Dapper.Abstractions.csproj", "{13A370E3-70DA-4613-A94D-B15DEBF01F37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoey.Dapper.Sample3", "..\samples\Zoey.Dapper.Sample3\Zoey.Dapper.Sample3.csproj", "{4C4EC317-AE19-4634-B7EE-3214AF1CEDFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{5CA75C81-12D3-432F-95FC-4FC419A41F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CA75C81-12D3-432F-95FC-4FC419A41F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CA75C81-12D3-432F-95FC-4FC419A41F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{217E7168-1A56-4602-9F99-5A945AA0507A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217E7168-1A56-4602-9F99-5A945AA0507A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217E7168-1A56-4602-9F99-5A945AA0507A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217E7168-1A56-4602-9F99-5A945AA0507A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86100226-6A3D-4977-985F-A0CEA9F5F2B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86100226-6A3D-4977-985F-A0CEA9F5F2B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86100226-6A3D-4977-985F-A0CEA9F5F2B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86100226-6A3D-4977-985F-A0CEA9F5F2B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A370E3-70DA-4613-A94D-B15DEBF01F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A370E3-70DA-4613-A94D-B15DEBF01F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A370E3-70DA-4613-A94D-B15DEBF01F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A370E3-70DA-4613-A94D-B15DEBF01F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4EC317-AE19-4634-B7EE-3214AF1CEDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4EC317-AE19-4634-B7EE-3214AF1CEDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4EC317-AE19-4634-B7EE-3214AF1CEDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4EC317-AE19-4634-B7EE-3214AF1CEDFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
